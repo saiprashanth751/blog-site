@@ -1,4 +1,4 @@
-🚀 Just launched "Medium Clone," a full-stack content publishing platform designed for seamless writing and reading experiences! This project showcases a modern monorepo architecture, delivering high performance and a delightful user interface.
+<h1>Blogging Site</h1>
 
 Empowering creators, this platform features robust user authentication, intuitive blog post creation and editing, and dynamic content display. Readers can effortlessly browse and engage with articles, all powered by a highly optimized serverless backend.
 
